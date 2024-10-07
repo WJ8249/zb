@@ -47,10 +47,10 @@ CCTV17,http://[2409:8087:1a01:df::4022]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CHC高清电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 CHC动作电影,http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
 CHC家庭影院,http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
-JJ斗地主,https://live2-play-a.live.jjmatch.com/hilive/1840418105193533440_hd.flv
 纪实人文,http://[2409:8087:1a01:df::4022]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/1.m3u8?
-精品记录,http://[2409:8087:1a01:df::4002]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8?
 军事评论,http://[2409:8087:1a01:df::4029]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/1.m3u8?
+精品记录,http://[2409:8087:1a01:df::4002]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8?
+JJ斗地主,http://cfss.cc/cdn/hy/14079954.m3u8
 李连杰,http://cfss.cc/cdn/hy/11342390.m3u8$LR•11•IPV4『线路5』
 周星驰1,http://cfss.cc/cdn/hy/11336587.m3u8$LR•4•IPV4『线路4』
 周星驰2,http://cfss.cc/cdn/hy/11342412.m3u8$
@@ -152,5 +152,3 @@ JJ斗地主,https://live2-play-a.live.jjmatch.com/hilive/1840418105193533440_hd.
 埋堆堆54,http://cfss.cc/cdn/hy/23903130.m3u8$
 电影6,http://cfss.cc/cdn/hy/11342388.m3u8$
 电影7,http://cfss.cc/cdn/hy/11352965.m3u8$
-
-
