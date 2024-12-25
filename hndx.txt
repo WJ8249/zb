@@ -77,6 +77,9 @@ CCTV-老故事,rtp://239.16.10.251:2000
 驻马店公共,rtp://239.16.10.54:2000
 驻马店科教,rtp://239.16.10.171:2000
 轮播频道,#genre#
+CHC高清电影,http://1.192.250.104:9901/tsfile/live/1000_1.m3u8
+CHC动作电影,http://1.192.250.104:9901/tsfile/live/1002_1.m3u8
+CHC家庭影院,http://1.192.250.104:9901/tsfile/live/1001_1.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 金鹰纪实,rtp://239.16.10.253:2000
 纪实人文,rtp://239.16.10.190:2000
@@ -103,6 +106,9 @@ CCTV-老故事,rtp://239.16.10.251:2000
 车迷频道,rtp://239.16.10.252:2000
 法制天地,rtp://239.16.10.254:2000
 书画,rtp://239.16.10.248:2000
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+纪实人文,http://1.192.250.104:9901/tsfile/live/1110_1.m3u8
+JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 经典电影,#genre#
 51号兵站,http://hls.cntv.myhwcdn.cn/asp/hls/2000/0303000a/3/default/5bf488c846034860ba5e9eec97a3d288/2000.m3u8
 万水千山,http://hls.cntv.myhwcdn.cn/asp/hls/2000/0303000a/3/default/dc00a3f1a7c1469bad7aca73ae846e53/2000.m3u8
