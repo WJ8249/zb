@@ -191,6 +191,9 @@ CCTV-老故事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226654/i
 光山综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227055/index.m3u8
 焦作综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226604/index.m3u8
 轮播频道,#genre#
+CHC高清电影,http://1.192.250.104:9901/tsfile/live/1000_1.m3u8
+CHC动作电影,http://1.192.250.104:9901/tsfile/live/1002_1.m3u8
+CHC家庭影院,http://1.192.250.104:9901/tsfile/live/1001_1.m3u8
 求索记录,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 求索科学,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
 求索动物,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
