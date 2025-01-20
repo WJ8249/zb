@@ -1,5 +1,4 @@
 央视频道,#genre#
-央视频道,#genre#
 CCTV1,http://nas.zyylover.homes:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
 CCTV2,http://nas.zyylover.homes:35455/itv/1000000005000265002.m3u8?cdn=ystenlive
 CCTV3,http://nas.zyylover.homes:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
