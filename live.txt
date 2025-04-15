@@ -53,7 +53,6 @@ CCTV6,http://1.199.235.73:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&aut
 CCTV6,http://42.238.233.77:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://101.66.198.68:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV6,http://101.66.198.150:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV7,http://1.199.235.73:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://221.13.235.52:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://182.125.172.43:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://125.42.148.196:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
