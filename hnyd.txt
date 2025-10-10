@@ -191,7 +191,9 @@ CCTV-老故事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226654/i
 光山综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227055/index.m3u8
 焦作综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226604/index.m3u8
 轮播频道,#genre#
+重温经典,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 重温经典,http://api.hk.itv888.cn:8080/hls/ba0e4e5dd67/index.m3u8
+JJ斗地主,https://cn-sdqd-cu-01-39.bilivideo.com/live-bvc/303880/live_315571702_79885316_2500/index.m3u8?
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 CHC高清电影,http://1.192.250.104:9901/tsfile/live/1000_1.m3u8
 CHC动作电影,http://1.192.250.104:9901/tsfile/live/1002_1.m3u8
