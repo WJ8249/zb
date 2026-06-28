@@ -190,6 +190,9 @@ CGTN俄语,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227394/index
 新蔡综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226512/index.m3u8
 新蔡综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226691/index.m3u8
 轮播频道,#genre#
+CHC家庭影院,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227477/index.m3u8
+CHC动作电影,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227479/index.m3u8
+CHC影迷电影,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227522/index.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
 JJ斗地主,http://live.ottiptv.cc/yy/1354650274
