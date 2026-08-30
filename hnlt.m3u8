@@ -1,239 +1,253 @@
-#EXTM3U x-tvg-url="https://epg.webnet.cloudns.pro/epg/epg.xml"
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",CCTV1
-rtp://225.1.4.73:1102
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",CCTV2
-rtp://225.1.4.74:1103
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",CCTV3
-rtp://225.1.4.158:1194
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",CCTV4
-rtp://225.1.5.30:1333
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV4欧洲" tvg-logo="https://epg.112114.xyz/logo/CCTV4欧洲.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",CCTV4欧洲
-rtp://225.1.5.31:1342
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV4美洲" tvg-logo="https://epg.112114.xyz/logo/CCTV4美洲.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",CCTV4美洲
-rtp://225.1.5.32:1343
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",CCTV5
-rtp://225.1.4.159:1195
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",CCTV5+
-rtp://225.1.4.75:1104
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",CCTV6
-rtp://225.1.4.160:1196
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",CCTV7
-rtp://225.1.4.76:1105
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",CCTV8
-rtp://225.1.4.161:1197
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",CCTV9
-rtp://225.1.4.77:1106
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",CCTV10
-rtp://225.1.4.78:1107
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",CCTV11
-rtp://225.1.4.215:1268
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",CCTV12
-rtp://225.1.4.79:1108
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",CCTV13
-rtp://225.1.4.113:1293
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",CCTV14
-rtp://225.1.4.80:1109
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",CCTV15
-rtp://225.1.4.216:1269
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",CCTV17
-rtp://225.1.4.226:2506
-#EXTINF:-1 group-title="卫视频道" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",河南卫视
-rtp://225.1.4.254:1300
-#EXTINF:-1 group-title="卫视频道" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",河南卫视
-rtp://225.1.5.45:1355
-#EXTINF:-1 group-title="卫视频道" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",河南卫视
-rtp://225.1.4.98:1127
-#EXTINF:-1 group-title="卫视频道" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",北京卫视
-rtp://225.1.4.81:1110
-#EXTINF:-1 group-title="卫视频道" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",湖南卫视
-rtp://225.1.4.82:1111
-#EXTINF:-1 group-title="卫视频道" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",江苏卫视
-rtp://225.1.4.83:1112
-#EXTINF:-1 group-title="卫视频道" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",浙江卫视
-rtp://225.1.4.84:1113
-#EXTINF:-1 group-title="卫视频道" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",东方卫视
-rtp://225.1.4.85:1114
-#EXTINF:-1 group-title="卫视频道" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",天津卫视
-rtp://225.1.4.86:1115
-#EXTINF:-1 group-title="卫视频道" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",山东卫视
-rtp://225.1.4.88:1117
-#EXTINF:-1 group-title="卫视频道" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",安徽卫视
-rtp://225.1.4.87:1116
-#EXTINF:-1 group-title="卫视频道" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",湖北卫视
-rtp://225.1.4.89:1118
-#EXTINF:-1 group-title="卫视频道" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",深圳卫视
-rtp://225.1.4.90:1119
-#EXTINF:-1 group-title="卫视频道" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",贵州卫视
-rtp://225.1.4.122:1302
-#EXTINF:-1 group-title="卫视频道" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",河北卫视
-rtp://225.1.4.123:1304
-#EXTINF:-1 group-title="卫视频道" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",江西卫视
-rtp://225.1.4.139:1305
-#EXTINF:-1 group-title="卫视频道" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",四川卫视
-rtp://225.1.4.151:1306
-#EXTINF:-1 group-title="卫视频道" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",云南卫视
-rtp://225.1.4.152:1307
-#EXTINF:-1 group-title="卫视频道" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",重庆卫视
-rtp://225.1.4.157:1308
-#EXTINF:-1 group-title="卫视频道" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",广东卫视
-rtp://225.1.4.166:1207
-#EXTINF:-1 group-title="卫视频道" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",辽宁卫视
-rtp://225.1.4.167:1208
-#EXTINF:-1 group-title="卫视频道" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",吉林卫视
-rtp://225.1.4.174:1309
-#EXTINF:-1 group-title="卫视频道" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",海南卫视
-rtp://225.1.4.195:1310
-#EXTINF:-1 group-title="卫视频道" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",东南卫视
-rtp://225.1.4.228:1274
-#EXTINF:-1 group-title="卫视频道" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",黑龙江卫视
-rtp://225.1.4.91:1120
-#EXTINF:-1 group-title="卫视频道" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",广西卫视
-rtp://225.1.4.31:1060
-#EXTINF:-1 group-title="卫视频道" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",山西卫视
-rtp://225.1.4.38:1067
-#EXTINF:-1 group-title="卫视频道" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",陕西卫视
-rtp://225.1.4.39:1068
-#EXTINF:-1 group-title="卫视频道" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",甘肃卫视
-rtp://225.1.4.42:1071
-#EXTINF:-1 group-title="卫视频道" tvg-name="宁夏卫视" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",宁夏卫视
-rtp://225.1.4.43:1072
-#EXTINF:-1 group-title="卫视频道" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",青海卫视
-rtp://225.1.4.44:1073
-#EXTINF:-1 group-title="卫视频道" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",西藏卫视
-rtp://225.1.4.46:1075
-#EXTINF:-1 group-title="卫视频道" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",新疆卫视
-rtp://225.1.4.47:1076
-#EXTINF:-1 group-title="卫视频道" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",内蒙古卫视
-rtp://225.1.4.45:1074
-#EXTINF:-1 group-title="卫视频道" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",厦门卫视
-rtp://225.1.4.95:1124
-#EXTINF:-1 group-title="卫视频道" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",兵团卫视
-rtp://225.1.4.97:1126
-#EXTINF:-1 group-title="卫视频道" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",三沙卫视
-rtp://225.1.4.234:1280
-#EXTINF:-1 group-title="卫视频道" tvg-name="山东教育" tvg-logo="https://epg.112114.xyz/logo/山东教育.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",山东教育
-rtp://225.1.4.164:1205
-#EXTINF:-1 group-title="河南频道" tvg-name="河南都市" tvg-logo="https://epg.112114.xyz/logo/河南都市.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",河南都市
-rtp://225.1.4.52:1081
-#EXTINF:-1 group-title="河南频道" tvg-name="河南民生" tvg-logo="https://epg.112114.xyz/logo/河南民生.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",河南民生
-rtp://225.1.4.53:1082
-#EXTINF:-1 group-title="河南频道" tvg-name="河南法治" tvg-logo="https://epg.112114.xyz/logo/河南法治.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",河南法治
-rtp://225.1.4.54:1083
-#EXTINF:-1 group-title="河南频道" tvg-name="河南电视剧" tvg-logo="https://epg.112114.xyz/logo/河南电视剧.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",河南电视剧
-rtp://225.1.4.55:1084
-#EXTINF:-1 group-title="河南频道" tvg-name="河南新闻" tvg-logo="https://epg.112114.xyz/logo/河南新闻.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",河南新闻
-rtp://225.1.4.56:1085
-#EXTINF:-1 group-title="河南频道" tvg-name="河南公共" tvg-logo="https://epg.112114.xyz/logo/河南公共.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",河南公共
-rtp://225.1.4.58:1087
-#EXTINF:-1 group-title="河南频道" tvg-name="河南乡村" tvg-logo="https://epg.112114.xyz/logo/河南乡村.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",河南乡村
-rtp://225.1.4.120:1149
-#EXTINF:-1 group-title="河南频道" tvg-name="河南国际" tvg-logo="https://epg.112114.xyz/logo/河南国际.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",河南国际
-rtp://225.1.4.102:1131
-#EXTINF:-1 group-title="河南频道" tvg-name="河南戏曲" tvg-logo="https://epg.112114.xyz/logo/河南戏曲.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",河南戏曲
-rtp://225.1.4.99:1128
-#EXTINF:-1 group-title="河南频道" tvg-name="河南文博" tvg-logo="https://epg.112114.xyz/logo/河南文博.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",河南文博
-rtp://225.1.4.100:1129
-#EXTINF:-1 group-title="河南频道" tvg-name="河南功夫" tvg-logo="https://epg.112114.xyz/logo/河南功夫.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",河南功夫
-rtp://225.1.4.101:1130
-#EXTINF:-1 group-title="河南频道" tvg-name="睛彩中原" tvg-logo="https://epg.112114.xyz/logo/睛彩中原.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",睛彩中原
-rtp://225.1.4.163:1203
-#EXTINF:-1 group-title="河南频道" tvg-name="移动戏曲" tvg-logo="https://epg.112114.xyz/logo/移动戏曲.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",移动戏曲
-rtp://225.1.4.206:1254
-#EXTINF:-1 group-title="河南频道" tvg-name="河南移动" tvg-logo="https://epg.112114.xyz/logo/河南移动.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",河南移动
-rtp://225.1.5.40:1350
-#EXTINF:-1 group-title="河南频道" tvg-name="健康河南" tvg-logo="https://epg.112114.xyz/logo/健康河南.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",健康河南
-rtp://225.1.5.48:1358
-#EXTINF:-1 group-title="河南频道" tvg-name="河南导视" tvg-logo="https://epg.112114.xyz/logo/河南导视.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",河南导视
-rtp://225.1.4.194:1244
-#EXTINF:-1 group-title="河南频道" tvg-name="驻马店新闻综合" tvg-logo="https://epg.112114.xyz/logo/驻马店新闻综合.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",驻马店新闻综合
-rtp://225.1.4.132:1168
-#EXTINF:-1 group-title="河南频道" tvg-name="驻马店科教频道" tvg-logo="https://epg.112114.xyz/logo/驻马店科教频道.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",驻马店科教频道
-rtp://225.1.4.133:1169
-#EXTINF:-1 group-title="河南频道" tvg-name="驻马店公共频道" tvg-logo="https://epg.112114.xyz/logo/驻马店公共频道.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",驻马店公共频道
-rtp://225.1.4.136:1172
-#EXTINF:-1 group-title="河南频道" tvg-name="固始综合" tvg-logo="https://epg.112114.xyz/logo/固始综合.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",固始综合
+#EXTM3U x-tvg-url="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/d3827730bb55e24de4c48585b3108a454fb52cc5/epg/epgpw_cn.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/CCTV1.png" group-title="",CCTV1
+rtp://@225.1.4.73:1102
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/CCTV2.png" group-title="",CCTV2
+rtp://@225.1.4.74:1103
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/CCTV3.png" group-title="",CCTV3
+rtp://@225.1.4.158:1194
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/CCTV4.png" group-title="",CCTV4
+rtp://@225.1.5.30:1333
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/CCTV4欧洲.png" group-title="",CCTV4欧洲
+rtp://@225.1.5.31:1342
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/CCTV4美洲.png" group-title="",CCTV4美洲
+rtp://@225.1.5.32:1343
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/CCTV5.png" group-title="",CCTV5
+rtp://@225.1.4.159:1195
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/CCTV5+.png" group-title="",CCTV5+
+rtp://@225.1.4.75:1104
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/CCTV6.png" group-title="",CCTV6
+rtp://@225.1.4.160:1196
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/CCTV7.png" group-title="",CCTV7
+rtp://@225.1.4.76:1105
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/CCTV8.png" group-title="",CCTV8
+rtp://@225.1.4.161:1197
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/CCTV9.png" group-title="",CCTV9
+rtp://@225.1.4.77:1106
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/CCTV10.png" group-title="",CCTV10
+rtp://@225.1.4.78:1107
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/CCTV11.png" group-title="",CCTV11
+rtp://@225.1.4.215:1268
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/CCTV12.png" group-title="",CCTV12
+rtp://@225.1.4.79:1108
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/CCTV13.png" group-title="",CCTV13
+rtp://@225.1.4.113:1293
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/CCTV14.png" group-title="",CCTV14
+rtp://@225.1.4.80:1109
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/CCTV15.png" group-title="",CCTV15
+rtp://@225.1.4.216:1269
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/CCTV17.png" group-title="",CCTV17
+rtp://@225.1.4.226:2506
+#EXTINF:-1 tvg-name="河南卫视4K" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/河南卫视4K.png" group-title="",河南卫视4K
+rtp://@225.1.4.254:1300
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/北京卫视4K.png" group-title="",北京卫视4K
+rtp://@225.1.5.67:1377
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/东方卫视4K.png" group-title="",东方卫视4K
+rtp://@225.1.5.70:1380
+#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/浙江卫视4K.png" group-title="",浙江卫视4K
+rtp://@225.1.5.72:1382
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/江苏卫视4K.png" group-title="",江苏卫视4K
+rtp://@225.1.5.71:1381
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/湖南卫视4K.png" group-title="",湖南卫视4K
+rtp://@225.1.5.76:1386
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/广东卫视4K.png" group-title="",广东卫视4K
+rtp://@225.1.5.69:1379
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/深圳卫视4K.png" group-title="",深圳卫视4K
+rtp://@225.1.5.68:1378
+#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/山东卫视4K.png" group-title="",山东卫视4K
+rtp://@225.1.5.73:1383
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/四川卫视4K.png" group-title="",四川卫视4K
+rtp://@225.1.5.75:1385
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/河南卫视.png" group-title="",河南卫视
+rtp://@225.1.5.45:1355
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/河南卫视.png" group-title="",河南卫视
+rtp://@225.1.4.98:1127
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/北京卫视.png" group-title="",北京卫视
+rtp://@225.1.4.81:1110
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/湖南卫视.png" group-title="",湖南卫视
+rtp://@225.1.4.82:1111
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/江苏卫视.png" group-title="",江苏卫视
+rtp://@225.1.4.83:1112
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/浙江卫视.png" group-title="",浙江卫视
+rtp://@225.1.4.84:1113
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/东方卫视.png" group-title="",东方卫视
+rtp://@225.1.4.85:1114
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/天津卫视.png" group-title="",天津卫视
+rtp://@225.1.4.86:1115
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/山东卫视.png" group-title="",山东卫视
+rtp://@225.1.4.88:1117
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/安徽卫视.png" group-title="",安徽卫视
+rtp://@225.1.4.87:1116
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/湖北卫视.png" group-title="",湖北卫视
+rtp://@225.1.4.89:1118
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/深圳卫视.png" group-title="",深圳卫视
+rtp://@225.1.4.90:1119
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/贵州卫视.png" group-title="",贵州卫视
+rtp://@225.1.4.122:1302
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/河北卫视.png" group-title="",河北卫视
+rtp://@225.1.4.123:1304
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/江西卫视.png" group-title="",江西卫视
+rtp://@225.1.4.139:1305
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/四川卫视.png" group-title="",四川卫视
+rtp://@225.1.4.151:1306
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/云南卫视.png" group-title="",云南卫视
+rtp://@225.1.4.152:1307
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/重庆卫视.png" group-title="",重庆卫视
+rtp://@225.1.4.157:1308
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/广东卫视.png" group-title="",广东卫视
+rtp://@225.1.4.166:1207
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/辽宁卫视.png" group-title="",辽宁卫视
+rtp://@225.1.4.167:1208
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/吉林卫视.png" group-title="",吉林卫视
+rtp://@225.1.4.174:1309
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/海南卫视.png" group-title="",海南卫视
+rtp://@225.1.4.195:1310
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/东南卫视.png" group-title="",东南卫视
+rtp://@225.1.4.228:1274
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/黑龙江卫视.png" group-title="",黑龙江卫视
+rtp://@225.1.4.91:1120
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/广西卫视.png" group-title="",广西卫视
+rtp://@225.1.4.31:1060
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/山西卫视.png" group-title="",山西卫视
+rtp://@225.1.4.38:1067
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/陕西卫视.png" group-title="",陕西卫视
+rtp://@225.1.4.39:1068
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/甘肃卫视.png" group-title="",甘肃卫视
+rtp://@225.1.4.42:1071
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/宁夏卫视.png" group-title="",宁夏卫视
+rtp://@225.1.4.43:1072
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/青海卫视.png" group-title="",青海卫视
+rtp://@225.1.4.44:1073
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/西藏卫视.png" group-title="",西藏卫视
+rtp://@225.1.4.46:1075
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/新疆卫视.png" group-title="",新疆卫视
+rtp://@225.1.4.47:1076
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/内蒙古卫视.png" group-title="",内蒙古卫视
+rtp://@225.1.4.45:1074
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/厦门卫视.png" group-title="",厦门卫视
+rtp://@225.1.4.95:1124
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/兵团卫视.png" group-title="",兵团卫视
+rtp://@225.1.4.97:1126
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/三沙卫视.png" group-title="",三沙卫视
+rtp://@225.1.4.234:1280
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/山东教育.png" group-title="",山东教育
+rtp://@225.1.4.164:1205
+#EXTINF:-1 tvg-name="河南都市" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/河南都市.png" group-title="",河南都市
+rtp://@225.1.4.52:1081
+#EXTINF:-1 tvg-name="河南民生" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/河南民生.png" group-title="",河南民生
+rtp://@225.1.4.53:1082
+#EXTINF:-1 tvg-name="河南法治" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/河南法治.png" group-title="",河南法治
+rtp://@225.1.4.54:1083
+#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/河南电视剧.png" group-title="",河南电视剧
+rtp://@225.1.4.55:1084
+#EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/河南新闻.png" group-title="",河南新闻
+rtp://@225.1.4.56:1085
+#EXTINF:-1 tvg-name="河南公共" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/河南公共.png" group-title="",河南公共
+rtp://@225.1.4.58:1087
+#EXTINF:-1 tvg-name="河南乡村" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/河南乡村.png" group-title="",河南乡村
+rtp://@225.1.4.120:1149
+#EXTINF:-1 tvg-name="河南国际" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/河南国际.png" group-title="",河南国际
+rtp://@225.1.4.102:1131
+#EXTINF:-1 tvg-name="河南戏曲" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/河南戏曲.png" group-title="",河南戏曲
+rtp://@225.1.4.99:1128
+#EXTINF:-1 tvg-name="河南文博" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/河南文博.png" group-title="",河南文博
+rtp://@225.1.4.100:1129
+#EXTINF:-1 tvg-name="河南功夫" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/河南功夫.png" group-title="",河南功夫
+rtp://@225.1.4.101:1130
+#EXTINF:-1 tvg-name="睛彩中原" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/睛彩中原.png" group-title="",睛彩中原
+rtp://@225.1.4.163:1203
+#EXTINF:-1 tvg-name="移动戏曲" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/移动戏曲.png" group-title="",移动戏曲
+rtp://@225.1.4.206:1254
+#EXTINF:-1 tvg-name="河南移动" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/河南移动.png" group-title="",河南移动
+rtp://@225.1.5.40:1350
+#EXTINF:-1 tvg-name="健康河南" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/健康河南.png" group-title="",健康河南
+rtp://@225.1.5.48:1358
+#EXTINF:-1 tvg-name="河南导视" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/河南导视.png" group-title="",河南导视
+rtp://@225.1.4.194:1244
+#EXTINF:-1 tvg-name="驻马店新闻综合" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/驻马店新闻综合.png" group-title="",驻马店新闻综合
+rtp://@225.1.4.132:1168
+#EXTINF:-1 tvg-name="驻马店科教频道" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/驻马店科教频道.png" group-title="",驻马店科教频道
+rtp://@225.1.4.133:1169
+#EXTINF:-1 tvg-name="驻马店公共频道" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/驻马店公共频道.png" group-title="",驻马店公共频道
+rtp://@225.1.4.136:1172
+#EXTINF:-1 tvg-name="固始综合" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/固始综合.png" group-title="",固始综合
 http://live.dxhmt.cn:9081/tv/11525-1.m3u8
-#EXTINF:-1 group-title="河南频道" tvg-name="固始综合" tvg-logo="https://epg.112114.xyz/logo/固始综合.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",固始综合
+#EXTINF:-1 tvg-name="固始综合" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/固始综合.png" group-title="",固始综合
 http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
-#EXTINF:-1 group-title="河南频道" tvg-name="西平电视台" tvg-logo="https://epg.112114.xyz/logo/西平电视台.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",西平电视台
-rtp://225.1.5.28:1340
-#EXTINF:-1 group-title="河南频道" tvg-name="新蔡电视台" tvg-logo="https://epg.112114.xyz/logo/新蔡电视台.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",新蔡电视台
-rtp://225.1.5.29:1341
-#EXTINF:-1 group-title="轮播频道" tvg-name="重温经典" tvg-logo="https://epg.112114.xyz/logo/重温经典.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",重温经典
+#EXTINF:-1 tvg-name="西平电视台" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/西平电视台.png" group-title="",西平电视台
+rtp://@225.1.5.28:1340
+#EXTINF:-1 tvg-name="新蔡电视台" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/新蔡电视台.png" group-title="",新蔡电视台
+rtp://@225.1.5.29:1341
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/重温经典.png" group-title="",重温经典
 http://120.76.248.139/live/bfgd/4200000635.m3u8
-#EXTINF:-1 group-title="轮播频道" tvg-name="重温经典" tvg-logo="https://epg.112114.xyz/logo/重温经典.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",重温经典
-https://cdn13.178.indevs.in/163189/21d79187db6e9793
-#EXTINF:-1 group-title="轮播频道" tvg-name="JJ斗地主" tvg-logo="https://epg.112114.xyz/logo/JJ斗地主.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",JJ斗地主
+#EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/JJ斗地主.png" group-title="",JJ斗地主
 http://live.ottiptv.cc/yy/1354650274
-#EXTINF:-1 group-title="轮播频道" tvg-name="JJ斗地主" tvg-logo="https://epg.112114.xyz/logo/JJ斗地主.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",JJ斗地主
-https://cn-sdqd-cu-01-39.bilivideo.com/live-bvc/303880/live_315571702_79885316_2500/index.m3u8?
-#EXTINF:-1 group-title="轮播频道" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",CHC高清电影
-rtp://225.1.4.207:1260
-#EXTINF:-1 group-title="轮播频道" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",CHC动作电影
-rtp://225.1.4.208:1261
-#EXTINF:-1 group-title="轮播频道" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",CHC家庭影院
-rtp://225.1.4.209:1262
-#EXTINF:-1 group-title="轮播频道" tvg-name="纪实人文" tvg-logo="https://epg.112114.xyz/logo/纪实人文.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",纪实人文
-rtp://225.1.4.170:1222
-#EXTINF:-1 group-title="轮播频道" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",金鹰纪实
-rtp://225.1.4.172:1711
-#EXTINF:-1 group-title="轮播频道" tvg-name="IPTV谍战剧场" tvg-logo="https://epg.112114.xyz/logo/IPTV谍战剧场.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",IPTV谍战剧场
-rtp://225.1.4.185:1240
-#EXTINF:-1 group-title="轮播频道" tvg-name="IPTV相声小品" tvg-logo="https://epg.112114.xyz/logo/IPTV相声小品.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",IPTV相声小品
-rtp://225.1.4.186:1235
-#EXTINF:-1 group-title="轮播频道" tvg-name="IPTV野外" tvg-logo="https://epg.112114.xyz/logo/IPTV野外.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",IPTV野外
-rtp://225.1.4.187:1236
-#EXTINF:-1 group-title="轮播频道" tvg-name="IPTV法治" tvg-logo="https://epg.112114.xyz/logo/IPTV法治.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",IPTV法治
-rtp://225.1.4.188:1237
-#EXTINF:-1 group-title="轮播频道" tvg-name="国学频道" tvg-logo="https://epg.112114.xyz/logo/国学频道.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",国学频道
-rtp://225.1.4.196:1311
-#EXTINF:-1 group-title="轮播频道" tvg-name="中国特产" tvg-logo="https://epg.112114.xyz/logo/中国特产.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",中国特产
-rtp://225.1.5.19:1330
-#EXTINF:-1 group-title="轮播频道" tvg-name="经典电影" tvg-logo="https://epg.112114.xyz/logo/经典电影.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",经典电影
-rtp://225.1.4.175:1233
-#EXTINF:-1 group-title="轮播频道" tvg-name="音乐现场" tvg-logo="https://epg.112114.xyz/logo/音乐现场.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",音乐现场
-rtp://225.1.4.184:1224
-#EXTINF:-1 group-title="轮播频道" tvg-name="先锋乒羽" tvg-logo="https://epg.112114.xyz/logo/先锋乒羽.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",先锋乒羽
-rtp://225.1.4.210:1263
-#EXTINF:-1 group-title="轮播频道" tvg-name="热播剧场" tvg-logo="https://epg.112114.xyz/logo/热播剧场.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",热播剧场
-rtp://225.1.4.190:1239
-#EXTINF:-1 group-title="轮播频道" tvg-name="魅力时尚" tvg-logo="https://epg.112114.xyz/logo/魅力时尚.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",魅力时尚
-rtp://225.1.4.205:1253
-#EXTINF:-1 group-title="轮播频道" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",卡酷少儿
-rtp://225.1.4.48:1077
-#EXTINF:-1 group-title="轮播频道" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",金鹰卡通
-rtp://225.1.4.49:1078
-#EXTINF:-1 group-title="轮播频道" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",嘉佳卡通
-rtp://225.1.4.92:1121
-#EXTINF:-1 group-title="轮播频道" tvg-name="新动漫" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",新动漫
-rtp://225.1.4.212:1265
-#EXTINF:-1 group-title="轮播频道" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",爱上4K
-rtp://225.1.4.162:1204
-#EXTINF:-1 group-title="轮播频道" tvg-name="爱综艺" tvg-logo="https://epg.112114.xyz/logo/爱综艺.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",爱综艺
-rtp://225.1.4.204:1252
-#EXTINF:-1 group-title="轮播频道" tvg-name="爱体育" tvg-logo="https://epg.112114.xyz/logo/爱体育.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",爱体育
-rtp://225.1.4.168:1220
-#EXTINF:-1 group-title="轮播频道" tvg-name="爱电影" tvg-logo="https://epg.112114.xyz/logo/爱电影.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",爱电影
-rtp://225.1.4.6:1035
-#EXTINF:-1 group-title="轮播频道" tvg-name="爱大剧" tvg-logo="https://epg.112114.xyz/logo/爱大剧.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",爱大剧
-rtp://225.1.4.8:1037
-#EXTINF:-1 group-title="轮播频道" tvg-name="爱生活" tvg-logo="https://epg.112114.xyz/logo/爱生活.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",爱生活
-rtp://225.1.4.176:1225
-#EXTINF:-1 group-title="轮播频道" tvg-name="好学生" tvg-logo="https://epg.112114.xyz/logo/好学生.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",好学生
-rtp://225.1.4.177:1226
-#EXTINF:-1 group-title="轮播频道" tvg-name="国学" tvg-logo="https://epg.112114.xyz/logo/国学.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",国学
-rtp://225.1.4.178:1227
-#EXTINF:-1 group-title="轮播频道" tvg-name="早教" tvg-logo="https://epg.112114.xyz/logo/早教.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",早教
-rtp://225.1.4.179:1228
-#EXTINF:-1 group-title="轮播频道" tvg-name="高网" tvg-logo="https://epg.112114.xyz/logo/高网.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",高网
-rtp://225.1.4.180:1229
-#EXTINF:-1 group-title="轮播频道" tvg-name="军事" tvg-logo="https://epg.112114.xyz/logo/军事.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",军事
-rtp://225.1.4.181:1230
-#EXTINF:-1 group-title="轮播频道" tvg-name="美妆" tvg-logo="https://epg.112114.xyz/logo/美妆.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",美妆
-rtp://225.1.4.182:1231
-#EXTINF:-1 group-title="轮播频道" tvg-name="地理" tvg-logo="https://epg.112114.xyz/logo/地理.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",地理
-rtp://225.1.4.183:1232
-#EXTINF:-1 group-title="轮播频道" tvg-name="足球" tvg-logo="https://epg.112114.xyz/logo/足球.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",足球
-rtp://225.1.4.200:1250
-#EXTINF:-1 group-title="轮播频道" tvg-name="精选" tvg-logo="https://epg.112114.xyz/logo/精选.png" epg-url="https://epg.webnet.cloudns.pro/epg/epg.xml",精选
-rtp://225.1.4.253:1299
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/CHC高清电影.png" group-title="",CHC高清电影
+rtp://@225.1.4.207:1260
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/CHC动作电影.png" group-title="",CHC动作电影
+rtp://@225.1.4.208:1261
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/CHC家庭影院.png" group-title="",CHC家庭影院
+rtp://@225.1.4.209:1262
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/纪实人文.png" group-title="",纪实人文
+rtp://@225.1.4.170:1222
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/金鹰纪实.png" group-title="",金鹰纪实
+rtp://@225.1.4.172:1711
+#EXTINF:-1 tvg-name="IPTV谍战剧场" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/IPTV谍战剧场.png" group-title="",IPTV谍战剧场
+rtp://@225.1.4.185:1240
+#EXTINF:-1 tvg-name="IPTV相声小品" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/IPTV相声小品.png" group-title="",IPTV相声小品
+rtp://@225.1.4.186:1235
+#EXTINF:-1 tvg-name="IPTV野外" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/IPTV野外.png" group-title="",IPTV野外
+rtp://@225.1.4.187:1236
+#EXTINF:-1 tvg-name="IPTV法治" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/IPTV法治.png" group-title="",IPTV法治
+rtp://@225.1.4.188:1237
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/国学频道.png" group-title="",国学频道
+rtp://@225.1.4.196:1311
+#EXTINF:-1 tvg-name="中国特产" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/中国特产.png" group-title="",中国特产
+rtp://@225.1.5.19:1330
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/经典电影.png" group-title="",经典电影
+rtp://@225.1.4.175:1233
+#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/音乐现场.png" group-title="",音乐现场
+rtp://@225.1.4.184:1224
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/先锋乒羽.png" group-title="",先锋乒羽
+rtp://@225.1.4.210:1263
+#EXTINF:-1 tvg-name="热播剧场" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/热播剧场.png" group-title="",热播剧场
+rtp://@225.1.4.190:1239
+#EXTINF:-1 tvg-name="魅力时尚" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/魅力时尚.png" group-title="",魅力时尚
+rtp://@225.1.4.205:1253
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/卡酷少儿.png" group-title="",卡酷少儿
+rtp://@225.1.4.48:1077
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/金鹰卡通.png" group-title="",金鹰卡通
+rtp://@225.1.4.49:1078
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/嘉佳卡通.png" group-title="",嘉佳卡通
+rtp://@225.1.4.92:1121
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/新动漫.png" group-title="",新动漫
+rtp://@225.1.4.212:1265
+#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/爱上4K.png" group-title="",爱上4K
+rtp://@225.1.4.162:1204
+#EXTINF:-1 tvg-name="爱综艺" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/爱综艺.png" group-title="",爱综艺
+rtp://@225.1.4.204:1252
+#EXTINF:-1 tvg-name="爱体育" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/爱体育.png" group-title="",爱体育
+rtp://@225.1.4.168:1220
+#EXTINF:-1 tvg-name="爱电影" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/爱电影.png" group-title="",爱电影
+rtp://@225.1.4.6:1035
+#EXTINF:-1 tvg-name="爱大剧" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/爱大剧.png" group-title="",爱大剧
+rtp://@225.1.4.8:1037
+#EXTINF:-1 tvg-name="爱生活" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/爱生活.png" group-title="",爱生活
+rtp://@225.1.4.176:1225
+#EXTINF:-1 tvg-name="好学生" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/好学生.png" group-title="",好学生
+rtp://@225.1.4.177:1226
+#EXTINF:-1 tvg-name="国学" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/国学.png" group-title="",国学
+rtp://@225.1.4.178:1227
+#EXTINF:-1 tvg-name="早教" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/早教.png" group-title="",早教
+rtp://@225.1.4.179:1228
+#EXTINF:-1 tvg-name="高网" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/高网.png" group-title="",高网
+rtp://@225.1.4.180:1229
+#EXTINF:-1 tvg-name="军事" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/军事.png" group-title="",军事
+rtp://@225.1.4.181:1230
+#EXTINF:-1 tvg-name="美妆" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/美妆.png" group-title="",美妆
+rtp://@225.1.4.182:1231
+#EXTINF:-1 tvg-name="地理" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/地理.png" group-title="",地理
+rtp://@225.1.4.183:1232
+#EXTINF:-1 tvg-name="足球" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/足球.png" group-title="",足球
+rtp://@225.1.4.200:1250
+#EXTINF:-1 tvg-name="精选" tvg-logo="https://gh.dpik.top/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/ku9/epg_data.json/精选.png" group-title="",精选
+rtp://@225.1.4.253:1299
